@@ -1,0 +1,26 @@
+h2 {
+  margin-left: 20px;
+  font-family: "Sarabun", sans-serif;
+  display: inline;
+  flex-direction: row;
+}
+label {
+  font-weight: bold;
+}
+/* .card {
+  margin-left: 150px;
+  margin-right: 200px;
+} */
+#HN {
+  margin-left: 115px;
+}
+input:hover {
+  color: blue;
+}
+@page {
+  size: A4;
+}
+#print {
+  margin-top: 10px;
+  margin-left: 15px;
+}

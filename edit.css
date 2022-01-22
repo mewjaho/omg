@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,300;0,400;0,500;1,200&family=K2D:ital,wght@1,100&family=Mali:wght@200;300;400&family=Niramit:wght@200&family=Prompt:wght@100&family=Sarabun:ital,wght@0,100;0,200;0,300;0,500;0,800;1,100;1,300&family=Thasadith:wght@700&display=swap");
+* {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: bold;
+}
+
+input {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: normal;
+  border: none;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  font-family: "Bai Jamjuree", sans-serif;
+}
+.card {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.form-check-input {
+  margin-left: 20px;
+}
