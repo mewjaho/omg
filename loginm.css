@@ -1,0 +1,32 @@
+* {
+  background-color: #fceaf1;
+  text-align: center;
+}
+body {
+  font-size: 20 px;
+  font-family: "Mali", cursive;
+}
+input {
+  background-color: aliceblue;
+  border-radius: 10px;
+
+  width: 500px;
+  height: 40px;
+}
+button {
+  margin-top: 30px;
+  background-color: #f85f6a;
+  color: white;
+
+  width: 250px;
+  height: 40px;
+}
+img {
+  margin-top: 40px;
+}
+h1 {
+  margin-right: 250px;
+}
+#icon {
+  margin-right: 400px;
+}
